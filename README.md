@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi there 👋, I'm Prathyusha Koduru 
 
 ### 🚀 Java | Spring Boot | React | Full-Stack Developer
