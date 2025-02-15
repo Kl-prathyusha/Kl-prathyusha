@@ -16,7 +16,7 @@ I'm a passionate Software Engineer specializing in backend development with **Ja
 ## 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/kodur1p/)
 [![Gmail](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:youremail@gmail.com)](mailto:klprathyusha99@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)]
 
 ---
 
